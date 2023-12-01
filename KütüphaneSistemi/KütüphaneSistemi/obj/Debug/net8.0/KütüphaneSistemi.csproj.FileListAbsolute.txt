@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\KütüphaneSistemi\KütüphaneSistemi\bin\Debug\net8.0\KütüphaneSistemi.exe
+C:\Users\asus\source\repos\KütüphaneSistemi\KütüphaneSistemi\bin\Debug\net8.0\KütüphaneSistemi.deps.json
+C:\Users\asus\source\repos\KütüphaneSistemi\KütüphaneSistemi\bin\Debug\net8.0\KütüphaneSistemi.runtimeconfig.json
+C:\Users\asus\source\repos\KütüphaneSistemi\KütüphaneSistemi\bin\Debug\net8.0\KütüphaneSistemi.dll
+C:\Users\asus\source\repos\KütüphaneSistemi\KütüphaneSistemi\bin\Debug\net8.0\KütüphaneSistemi.pdb
+C:\Users\asus\source\repos\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\net8.0\KütüphaneSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\net8.0\KütüphaneSistemi.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\net8.0\KütüphaneSistemi.AssemblyInfo.cs
+C:\Users\asus\source\repos\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\net8.0\KütüphaneSistemi.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\net8.0\KütüphaneSistemi.sourcelink.json
+C:\Users\asus\source\repos\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\net8.0\KütüphaneSistemi.dll
+C:\Users\asus\source\repos\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\net8.0\refint\KütüphaneSistemi.dll
+C:\Users\asus\source\repos\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\net8.0\KütüphaneSistemi.pdb
+C:\Users\asus\source\repos\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\net8.0\KütüphaneSistemi.genruntimeconfig.cache
+C:\Users\asus\source\repos\KütüphaneSistemi\KütüphaneSistemi\obj\Debug\net8.0\ref\KütüphaneSistemi.dll
